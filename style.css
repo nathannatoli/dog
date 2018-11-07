@@ -1,7 +1,10 @@
 html, body{
 	height:100%;
-	background:black;
+	background:grey;
 }
 body{
-	background:black;
+	background:grey;
+}
+.pre{
+	margin-bottom: 200px;
 }
